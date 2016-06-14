@@ -1,7 +1,7 @@
 # Airport-Locator
 
 
-- In this assignment you are to create an MVC Application that will allow a User to perform the following:
+- I have create an MVC Application that will allow a User to perform the following:
 
 1. Search for airports within a user-specified distance of a single zipcode.
 2. Specify a city name and display all zipcodes within the specified city.
